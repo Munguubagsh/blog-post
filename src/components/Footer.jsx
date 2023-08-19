@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-  return <div>Footer</div>;
+  return <div>Ene bol footer</div>;
 }
 
 export default Footer;
